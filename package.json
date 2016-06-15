@@ -24,6 +24,7 @@
     "hubot-seen": "^0.2.3",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
+    "hubot-what": "0.0.1",
     "hubot-yolo": "^1.0.7"
   },
   "engines": {
