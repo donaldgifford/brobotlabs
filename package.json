@@ -24,7 +24,7 @@
     "hubot-scripts": "^2.17.2",
     "hubot-seen": "^0.2.3",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.4.2",
+    "hubot-slack": "^4.2.1",
     "hubot-slack-reaction": "0.0.3",
     "hubot-slack-reaction-spam": "0.0.5",
     "hubot-what": "0.0.1",
